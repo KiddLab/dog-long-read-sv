@@ -1,7 +1,7 @@
 track SV_12
 bigDataUrl SV_12_sample.all.browser.bb
 shortLabel SV_12
-longLabel SVs From 12 Samples
+longLabel SVs from 12 samples
 type bigBed 9
 visibility hide
 itemRgb on
@@ -17,7 +17,7 @@ itemRgb on
 track Ohana
 bigDataUrl Dog10k_manta_paragraph.OHANA.browser.bb
 shortLabel OhanaSV
-longLabel SVs above Ohana Thrshold
+longLabel SVs above Ohana threshold
 type bigBed 9
 visibility hide
 itemRgb on
