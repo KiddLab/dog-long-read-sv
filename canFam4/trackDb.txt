@@ -14,7 +14,7 @@ type bigBed 9
 visibility hide
 itemRgb on
 
-track Dog10K
+track Ohana
 bigDataUrl Dog10k_manta_paragraph.OHANA.browser.bb
 shortLabel OhanaSV
 longLabel SVs above Ohana Thrshold
