@@ -1,0 +1,23 @@
+track SV_12
+bigDataUrl SV_12_sample.all.browser.bb
+shortLabel SV_12
+longLabel SVs From 12 Samples
+type bigBed 9
+visibility hide
+itemRgb on
+
+track Dog10K
+bigDataUrl Dog10k_manta_paragraph.browser.bb
+shortLabel Dog10K Merged
+longLabel Merged SVs Manta + Paragraph
+type bigBed 9
+visibility hide
+itemRgb on
+
+track Dog10K
+bigDataUrl Dog10k_manta_paragraph.OHANA.browser.bb
+shortLabel OhanaSV
+longLabel SVs above Ohana Thrshold
+type bigBed 9
+visibility hide
+itemRgb on

@@ -1,0 +1,5 @@
+hub KiddLabTmpData
+shortLabel Track Data Hub for Kidd Lab Dog Long-Read SVs 
+longLabel University of Michigan Medical School, Human Genetics, Kidd Lab Dog Long-Read SVs
+genomesFile dog-tracks.genome.txt
+email jmkidd@umich.edu
