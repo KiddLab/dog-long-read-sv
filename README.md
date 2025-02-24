@@ -8,11 +8,22 @@ Mischka (canFam4) genome assembly.
 
 The following tracks are included:
 
-SV_12  SVs found though analysis of 12 assemblies using long-read, short-read, and assembly comparisons
+**SV_12**  SVs found though analysis of 12 assemblies using long-read, short-read, and assembly comparisons
 
-Dog10K Merged set of SVs genotyped in Dog10K samples based on Manta+Paragraph
+**Dog10K** Merged set of SVs genotyped in Dog10K samples based on Manta+Paragraph
 
-Ohana SVs above the significant threshold for Ohana analysis
+**Ohana** SVs above the significant threshold for Ohana analysis
+
+
+For all tracks the following colors are used:
+
+| SV Type       | Color  |
+|---------------|--------|
+| Deletion      | Red    |
+| Insertion     | Blue   |
+| Inversion     | Green  |
+| Duplication   | Orange |
+| Translocation | Purple |
 
 
 See Schall et al. for more information.
